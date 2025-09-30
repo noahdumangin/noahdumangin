@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="bannière.png" alt="Ma bannière stylée" width="800"/>
+</p>
+
+
+
 ## Bonjour ! 
 Étudiant en informatique à l'IUT Robert Schuman 
 
