@@ -1,11 +1,11 @@
 ## Bonjour ! 
-Étudiant en informatique à l'IUT Rohbert Schuman 
+Étudiant en informatique à l'IUT Robert Schuman 
 
 
 ## Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,html,css,cs,c,java,javascript,sqlite" />
+    <img src="https://skillicons.dev/icons?i=php,html,css,cs,c,java,javascript,sqlite,bash" />
   </a>
 </p>
 
