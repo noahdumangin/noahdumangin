@@ -1,18 +1,30 @@
 ## Bonjour ! 
 Étudiant en informatique à l'IUT Robert Schuman 
 
+Mes passe-temps : jouer aux jeux vidéos et cuisiner
+
+Ma musique préférée : 
+<p>
+  <a href="https://www.youtube.com/watch?v=rh5GDFRxHcU" target="_blank">
+    <img src="https://i.ytimg.com/vi/rh5GDFRxHcU/sddefault.jpg" alt="Take Me to the Beach – Imagine Dragons" width="300"/>
+  </a>
+</p>
 
 ## Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,html,css,cs,c,java,javascript,sqlite,bash" />
+    <img src="https://skillicons.dev/icons?i=php,html,css,cs,c" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=java,javascript,sqlite,bash" />
   </a>
 </p>
 
 ## Outils
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=github,gitlab,vscodium,vscode,visualstudio,godot,postman,idea,clion,vim,linux,windows" />
+   <img src="https://skillicons.dev/icons?i=github,gitlab,vscodium,vscode,visualstudio" />
+    <br>
+   <img src="https://skillicons.dev/icons?i=godot,postman,idea,clion,vim,linux,windows" /> 
   </a>
 </p>
 
@@ -24,4 +36,6 @@
 - [Application de gestion de base de donnée](https://github.com/noahdumangin/Appli_gestion_pompiers)  : Gestion de pompiers en C# avec Visual Studio 2022
 
 ## Statistiques
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahdumangin&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahdumangin&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
