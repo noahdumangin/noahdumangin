@@ -1,6 +1,7 @@
 ## Bonjour ! 
 Étudiant en informatique à l'IUT Rohbert Schuman 
 
+
 ## Languages
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,8 +23,5 @@
 - [Sudoku](https://github.com/noahdumangin/Sudoku)  : Solveur de sudoku en Assembleur
 - [Application de gestion de base de donnée](https://github.com/noahdumangin/Appli_gestion_pompiers)  : Gestion de pompiers en C# avec Visual Studio 2022
 
-## Stats GitHub
-![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=noahdumangin&show_icons=true&theme=tokyonight)
-
+## Statistiques
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahdumangin&layout=compact&theme=tokyonight)
-
