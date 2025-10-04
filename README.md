@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bannière.png" alt="Ma bannière stylée" width="800"/>
+  <img src="bannière.png" alt="bannièree" width="800"/>
 </p>
 
 
@@ -11,8 +11,8 @@ Mes passe-temps : jouer aux jeux vidéos et cuisiner
 
 Ma musique préférée : 
 <p>
-  <a href="https://www.youtube.com/watch?v=rh5GDFRxHcU" target="_blank">
-    <img src="https://i.ytimg.com/vi/rh5GDFRxHcU/sddefault.jpg" alt="Take Me to the Beach – Imagine Dragons" width="300"/>
+  <a href="https://www.youtube.com/watch?v=7HLrviPwEaU" target="_blank">
+    <img src="https://i.ytimg.com/vi/7HLrviPwEaU/hqdefault.jpg" alt="Take Me to the Beach – Imagine Dragons" width="300"/>
   </a>
 </p>
 
