@@ -5,9 +5,9 @@
 
 
 ## Bonjour ! 
-Étudiant en informatique à l'IUT Robert Schuman 
+Je suis étudiant en informatique à l'IUT Robert Schuman 
 
-Mes passe-temps : jouer aux jeux vidéos et cuisiner
+Mes passe-temps sont : jouer aux jeux vidéos et cuisiner
 
 Ma musique préférée : 
 <p>
