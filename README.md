@@ -16,7 +16,7 @@ Ma musique préférée :
   </a>
 </p>
 
-## Languages
+## Langages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,html,css,cs,c" />
@@ -35,11 +35,15 @@ Ma musique préférée :
 </p>
 
 ## Projets
+
+Quelques projets réalisé dans le cadre du BUT informatique : 
+
 - [Jeu de Yam's](https://github.com/noahdumangin/Yams) : Jeu en C# du Yams puis affichage des résultats sur site web
 - [Simulation de réseau](https://github.com/tonprofil/Simulation_de_reseau_en_C) : en C
 - [Doonjoon et Dragons](https://github.com/noahdumangin/DOOjons-Et-Dragons)  : Jeu de rôle en Java
 - [Sudoku](https://github.com/noahdumangin/Sudoku)  : Solveur de sudoku en Assembleur
 - [Application de gestion de base de donnée](https://github.com/noahdumangin/Appli_gestion_pompiers)  : Gestion de pompiers en C# avec Visual Studio 2022
+- (Ajouté en mi-décembre 2025) Jeu sérieux: Clicker pour automatisation d'audit
 
 ## Statistiques
 <p align="center">
