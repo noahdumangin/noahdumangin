@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="bannière.png" alt="bannièree" width="800"/>
+  <img src="banniere.png" alt="bannièree" width="800"/>
 </p>
 
 
 
 ## Bonjour ! 
-Étudiant en informatique à l'IUT Robert Schuman 
+Je suis étudiant en informatique à l'IUT Robert Schuman 
 
-Mes passe-temps : jouer aux jeux vidéos et cuisiner
+Mes passe-temps sont : jouer aux jeux vidéos, faire du sport et cuisiner
 
 Ma musique préférée : 
 <p>
@@ -16,7 +16,7 @@ Ma musique préférée :
   </a>
 </p>
 
-## Languages
+## Langages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,html,css,cs,c" />
@@ -35,11 +35,15 @@ Ma musique préférée :
 </p>
 
 ## Projets
+
+Quelques projets réalisé dans le cadre du BUT informatique : 
+
 - [Jeu de Yam's](https://github.com/noahdumangin/Yams) : Jeu en C# du Yams puis affichage des résultats sur site web
 - [Simulation de réseau](https://github.com/tonprofil/Simulation_de_reseau_en_C) : en C
 - [Doonjoon et Dragons](https://github.com/noahdumangin/DOOjons-Et-Dragons)  : Jeu de rôle en Java
 - [Sudoku](https://github.com/noahdumangin/Sudoku)  : Solveur de sudoku en Assembleur
-- [Application de gestion de base de donnée](https://github.com/noahdumangin/Appli_gestion_pompiers)  : Gestion de pompiers en C# avec Visual Studio 2022
+- [Application de gestion de base de données](https://github.com/noahdumangin/Appli_gestion_pompiers)  : Gestion de pompiers en C# avec Visual Studio 2022
+- (Ajouté en mi-décembre 2025) Jeu sérieux: Clicker pour automatisation d'audit
 
 ## Statistiques
 <p align="center">
