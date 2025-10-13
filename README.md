@@ -9,7 +9,7 @@ Je suis étudiant en informatique à l'IUT Robert Schuman
 
 Mes passe-temps sont : jouer aux jeux vidéos, faire du sport et cuisiner
 
-Ma musique préférée : 
+Ma musique préférée : Take me to the beach - Imagine Dragons
 <p>
   <a href="https://www.youtube.com/watch?v=7HLrviPwEaU" target="_blank">
     <img src="https://i.ytimg.com/vi/7HLrviPwEaU/hqdefault.jpg" alt="Take Me to the Beach – Imagine Dragons" width="300"/>
@@ -39,7 +39,6 @@ Ma musique préférée :
 Quelques projets réalisé dans le cadre du BUT informatique : 
 
 - [Jeu de Yam's](https://github.com/noahdumangin/Yams) : Jeu en C# du Yams puis affichage des résultats sur site web
-- [Simulation de réseau](https://github.com/tonprofil/Simulation_de_reseau_en_C) : en C
 - [Doonjoon et Dragons](https://github.com/noahdumangin/DOOjons-Et-Dragons)  : Jeu de rôle en Java
 - [Sudoku](https://github.com/noahdumangin/Sudoku)  : Solveur de sudoku en Assembleur
 - [Application de gestion de base de données](https://github.com/noahdumangin/Appli_gestion_pompiers)  : Gestion de pompiers en C# avec Visual Studio 2022
