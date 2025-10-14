@@ -42,6 +42,7 @@ Quelques projets réalisé dans le cadre du BUT informatique :
 - [Doonjoon et Dragons](https://github.com/noahdumangin/DOOjons-Et-Dragons)  : Jeu de rôle en Java
 - [Sudoku](https://github.com/noahdumangin/Sudoku)  : Solveur de sudoku en Assembleur
 - [Application de gestion de base de données](https://github.com/noahdumangin/Appli_gestion_pompiers)  : Gestion de pompiers en C# avec Visual Studio 2022
+- [Simulation de réseaux](https://github.com/noahdumangin/Simulation_de_reseau_en_C) : Simule une LAN avec des switchs et des postes en C
 - (Ajouté en mi-décembre 2025) Jeu sérieux: Clicker pour automatisation d'audit
 
 ## Statistiques
