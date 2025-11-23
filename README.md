@@ -25,9 +25,9 @@ My favorite song : Take me to the beach - Imagine Dragons
 ## Langages / Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,html,css,cs,c" />
+    <img src="https://skillicons.dev/icons?i=php,html,css,cs,c,java" />
     <br>
-    <img src="https://skillicons.dev/icons?i=java,javascript,sqlite,bash" />
+    <img src="https://skillicons.dev/icons?i=javascript,sqlite,mongodb,bash" />
   </a>
 </p>
 
