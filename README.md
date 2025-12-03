@@ -54,6 +54,8 @@ Quelques projets réalisé dans le cadre du BUT informatique / Some projects tha
   <br>
 - [Simulation de réseaux / Network Simulation](https://github.com/noahdumangin/Simulation_de_reseau_en_C) : Simule une LAN avec des switchs et des postes en C / LAN simulation project using C, including switches and workstations setup
   <br>
+- [Gestionnaire de tâches](https://github.com/noahdumangin/gestionnaire_de_taches) : Liste de tâches en Javascript et React
+  <br>
 - (Ajouté en mi-décembre 2025) Jeu sérieux: Clicker pour automatisation d'audit / (Added mid-December 2025) Serious Game: Clicker for Audit Automation
 
 ## Statistiques / Statistics
