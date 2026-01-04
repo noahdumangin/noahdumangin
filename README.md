@@ -57,8 +57,3 @@ Quelques projets réalisé dans le cadre du BUT informatique / Some projects tha
 - [Gestionnaire de tâches](https://github.com/noahdumangin/gestionnaire_de_taches) : Liste de tâches en Javascript et React
   <br>
 - [Jeu sérieux/Serious Game (Clicker)](https://github.com/noahdumangin/Clicker-audit-automatisation) : Clicker pour automatisation d'audit /  Clicker for Audit Automation
-
-## Statistiques / Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahdumangin&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
