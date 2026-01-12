@@ -57,3 +57,4 @@ Quelques projets réalisé dans le cadre du BUT informatique / Some projects tha
 - [Gestionnaire de tâches](https://github.com/noahdumangin/gestionnaire_de_taches) : Liste de tâches en Javascript et React
   <br>
 - [Jeu sérieux/Serious Game (Clicker)](https://github.com/noahdumangin/Clicker-audit-automatisation) : Clicker pour automatisation d'audit /  Clicker for Audit Automation
+- [Bataille navale/naval battle](https://github.com/noahdumangin/Bataille_navale) : Bataille navale en Java avec règles supplémentaires
