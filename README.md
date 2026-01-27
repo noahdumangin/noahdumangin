@@ -58,3 +58,4 @@ Quelques projets réalisé dans le cadre du BUT informatique / Some projects tha
   <br>
 - [Jeu sérieux/Serious Game (Clicker)](https://github.com/noahdumangin/Clicker-audit-automatisation) : Clicker pour automatisation d'audit /  Clicker for Audit Automation
 - [Bataille navale/naval battle](https://github.com/noahdumangin/Bataille_navale) : Bataille navale en Java avec règles supplémentaires
+- [2048](https://github.com/noahdumangin/2048) : Jeu de 2048 en C sur terminal linux
