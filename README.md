@@ -39,7 +39,7 @@ Ma musique préférée : Take me to the beach - Imagine Dragons
 
 ## Projets
 
-Quelques projets réalisé dans le cadre du BUT informatique / Some projects that I did as part of the BUT : 
+Quelques projets réalisé dans le cadre du BUT informatique : 
 
 - [StackOverlivre](https://github.com/noahdumangin/StackOverLivre) : Application android studio et application web de gestion de livres et d'auteurs
 - [Bataille navale](https://github.com/noahdumangin/Bataille_navale) : Bataille navale en Java avec règles supplémentaires
