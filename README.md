@@ -40,7 +40,7 @@ Ma musique préférée : Take me to the beach - Imagine Dragons
 ## Projets
 
 Quelques projets réalisé dans le cadre du BUT informatique : 
-
+- [Cramé mais diplômé](https://github.com/noahdumangin/Crame-mais-diplome) : Application web mettant en scène les différents types d'étudiants et leur santé mentale
 - [StackOverlivre](https://github.com/noahdumangin/StackOverLivre) : Application android studio et application web de gestion de livres et d'auteurs
 - [Bataille navale](https://github.com/noahdumangin/Bataille_navale) : Bataille navale en Java avec règles supplémentaires
 - [Jeu sérieux (Clicker)](https://github.com/noahdumangin/Clicker-audit-automatisation) : Clicker pour automatisation d'audit
